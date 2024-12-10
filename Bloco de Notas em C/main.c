@@ -107,8 +107,10 @@ int main(){
         		break;
         	case 2: 
         		listar_tarefas();
+        		break;
         	case 3:
         		remover_tarefa();
+        		break;
         	case 4:
         		printf("Saindo...\n");
         		break;
