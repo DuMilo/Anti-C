@@ -1,7 +1,7 @@
 # Desafio em C
 
 ### Objetivo
-#### Me colocando pra estudar nas minhas horas vagas e praticando com coisas que eu realmente vou usar! 
+#### Me colocando pra estudar C nas minhas horas vagas e praticando com coisas que eu realmente vou usar! 
 
 ### Por quê? 
 #### Porque eu (m̶e̶ ̶o̶d̶e̶i̶o̶ ̶m̶u̶i̶t̶o̶) quero me desafiar academicamente e dar uma segunda chance pra C!
